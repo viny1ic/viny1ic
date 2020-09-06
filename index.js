@@ -26,7 +26,7 @@ let DATA = {
 
 async function setWeatherInformation() {
     await fetch(
-      `https://api.openweathermap.org/data/2.5/weather?q=vellore&appid=072e2ccd99a1a0df052481df2b434f93&units=metric`
+      `https://api.openweathermap.org/data/2.5/weather?q=vellore&appid=072e2ccd99a1a0df052481df2b434f93`
     )
       .then(r => r.json())
       .then(r => {
