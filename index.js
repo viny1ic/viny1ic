@@ -54,6 +54,10 @@ function generateReadMe() {
   });
 }
 
-setWeatherInformation();
 
-generateReadMe();
+async function main(){
+  await setWeatherInformation(); 
+  generateReadMe();
+}
+
+main();
