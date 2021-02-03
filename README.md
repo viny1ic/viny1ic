@@ -1,6 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! My name is Vinayak Dubey .</h1>
-<p>I am a B.Tech CSE Student from VIT vellore, India. <br> The weather in Vellore as of Wednesday, 3 February, 11:49 am IST is:<br><b>302</b> Kelvin, <i><b> clear sky <b></i><p>
+<p>I am a B.Tech CSE Student from VIT vellore, India. <br> The weather in Vellore as of Wednesday, 3 February, 5:53 pm IST is:<br><b>300</b> Kelvin, <i><b> few clouds <b></i><p>
 <p> <img src="https://media.giphy.com/media/5xtDarl6N3dcgPOuKqI/giphy.gif"/><br><p>
 <h2> My skills and interests are: </h2>
 <p><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Penetration testing<p>
