@@ -9,7 +9,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';/**
 */
 let DATA = {
   name: 'Vinayak Dubey',
-  date: new Date().toLocaleDateString('en-IN', {
+  date: new Date().toLocaleDateString('en-US', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
@@ -26,7 +26,7 @@ let DATA = {
 
 async function setWeatherInformation() {
     await fetch(
-      `https://api.openweathermap.org/data/2.5/weather?q=vellore&appid=072e2ccd99a1a0df052481df2b434f93`
+      `https://api.openweathermap.org/data/2.5/weather?zip=20052,us&appid=072e2ccd99a1a0df052481df2b434f93`
     )
       .then(r => r.json())
       .then(r => {
