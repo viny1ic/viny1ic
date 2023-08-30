@@ -1,9 +1,8 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! My name is Vinayak Dubey .</h1>
-<p>I am a B.Tech CSE Student from VIT vellore, India. <br> The weather in Vellore as of Wednesday, 30 August, 6:30 am IST is:<br><b>300</b> Kelvin, <i><b> overcast clouds <b></i><p>
+<p>I am a Cyber security grad student from George Washington University, USA. <br> The weather in Washington DC as of Wednesday, 30 August, 9:37 am IST is:<br><b>306</b> Kelvin, <i><b> broken clouds <b></i><p>
 <p> <img src="https://media.giphy.com/media/5xtDarl6N3dcgPOuKqI/giphy.gif"/><br><p>
 <h2> My skills and interests are: </h2>
-<p><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Penetration testing<p>
 <p><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Ethical hacking<p>
 <p><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Cybersecurity<p>
 <p><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Backend Web Development<p>
