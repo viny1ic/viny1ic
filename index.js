@@ -16,7 +16,7 @@ let DATA = {
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'Asia/Kolkata',
+    timeZone: 'America/New_York',
   }),
 };/**
   * A - We open 'main.mustache'
@@ -33,15 +33,15 @@ async function setWeatherInformation() {
         DATA.city_temperature = Math.round(r.main.temp);
         DATA.city_weather = r.weather[0].description;
         DATA.city_weather_icon = r.weather[0].icon;
-        DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-IN', {
+        DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-US', {
           hour: '2-digit',
           minute: '2-digit',
-          timeZone: 'Asia/Kolkata',
+          timeZone: 'America/New_York',
         });
-        DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-IN', {
+        DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-US', {
           hour: '2-digit',
           minute: '2-digit',
-          timeZone: 'Asia/kolkata',
+          timeZone: 'America/New_York',
         });
       });
   }
