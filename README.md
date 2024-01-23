@@ -1,6 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! My name is Vinayak Dubey .</h1>
-<p>I am a Cyber security grad student from George Washington University, USA. <br> The weather in Washington DC as of Tuesday, January 23, 1:19 AM EST is:<br><b>271</b> Kelvin, <i><b> clear sky <b></i><p>
+<p>I am a Cyber security grad student from George Washington University, USA. <br> The weather in Washington DC as of Tuesday, January 23, 7:28 AM EST is:<br><b>270</b> Kelvin, <i><b> clear sky <b></i><p>
 <p> <img src="https://media.giphy.com/media/5xtDarl6N3dcgPOuKqI/giphy.gif"/><br><p>
 <h2> My skills and interests are: </h2>
 <p><img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/> Ethical hacking<p>
